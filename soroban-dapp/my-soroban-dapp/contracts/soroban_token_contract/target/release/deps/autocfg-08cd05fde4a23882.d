@@ -1,0 +1,10 @@
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/release/deps/libautocfg-08cd05fde4a23882.rmeta: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/release/deps/libautocfg-08cd05fde4a23882.rlib: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/release/deps/autocfg-08cd05fde4a23882.d: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs:

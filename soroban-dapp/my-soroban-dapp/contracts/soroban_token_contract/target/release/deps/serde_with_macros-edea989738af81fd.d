@@ -1,0 +1,8 @@
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/release/deps/libserde_with_macros-edea989738af81fd.dylib: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/apply.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/lazy_bool.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/utils.rs
+
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/release/deps/serde_with_macros-edea989738af81fd.d: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/apply.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/lazy_bool.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/utils.rs
+
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/lib.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/apply.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/lazy_bool.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_with_macros-3.11.0/src/utils.rs:

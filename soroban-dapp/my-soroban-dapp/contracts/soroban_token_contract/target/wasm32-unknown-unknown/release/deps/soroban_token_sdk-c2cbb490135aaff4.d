@@ -1,0 +1,9 @@
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/wasm32-unknown-unknown/release/deps/soroban_token_sdk-c2cbb490135aaff4.wasm: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/event.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/metadata.rs
+
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/wasm32-unknown-unknown/release/deps/libsoroban_token_sdk-c2cbb490135aaff4.rlib: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/event.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/metadata.rs
+
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/wasm32-unknown-unknown/release/deps/soroban_token_sdk-c2cbb490135aaff4.d: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/event.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/metadata.rs
+
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/lib.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/event.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/soroban-token-sdk-22.0.3/src/metadata.rs:

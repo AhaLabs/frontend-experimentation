@@ -1,0 +1,10 @@
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/release/deps/libversion_check-6cbcbcdded7ebd4c.rmeta: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/release/deps/libversion_check-6cbcbcdded7ebd4c.rlib: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/hugoheer/Documents/projects/OPCO/AhaLabs/test-loam/soroban-dapp/my-soroban-dapp/contracts/token/target/release/deps/version_check-6cbcbcdded7ebd4c.d: /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs:
+/Users/hugoheer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs:
